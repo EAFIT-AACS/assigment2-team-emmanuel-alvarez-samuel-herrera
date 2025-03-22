@@ -1,1 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gjhNPQOm)
+# PDA and CFG Project
+
+## Members
+- Samuel Herrera Galvis
+- Emmanuel Alvarez Castrillon
+
+## Student’s Class Number
+SI2002-2 (7309)
+
+## Development Environment
+- **Operating System:** Windows 10 x64bits
+- **Programming Language:** C++
+- **IDE:** Visual Studio Code
+
+## Running Instructions
+
