@@ -13,7 +13,7 @@ SI2002-2 (7309)
 - **IDE:** Visual Studio Code
 
 ## Running Instructions
-# Context-Free Grammar Processing with C++
+## Context-Free Grammar Processing with C++
 
 This repository contains the implementation of three C++ algorithms that work together to generate, recognize, and analyze strings based on the context-free grammar:
 
